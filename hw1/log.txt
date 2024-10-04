@@ -1,1 +1,12 @@
+Started VFS: C:/test/archive.tar
+Executed command: ls
+Executed command: echo fff
+Command not found: gggg
+Command not found: g
+Command not found: g
+Command not found: g
+Command not found: g
+Command not found: qweqweqewqew
+Exited emulator
+Exited emulator
 
