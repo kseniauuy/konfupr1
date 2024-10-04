@@ -14,6 +14,6 @@ ___
 - cp — команда для копирования файлов и каталогов. 
 ___
 ## Тестирование с помощью Pytest
-![pytest](https://github.com/d1nech/KonfUpravlenie/blob/main/HW%20№1/testimg/Снимок%20экрана%202024-09-17%20183759.png?raw=true)
+![pytest](https://github.com/kseniauuy/konfupr1/blob/main/hw1/imgs/Снимок%20экрана%202024-09-17%20183759.png?raw=true)
 ___
 
